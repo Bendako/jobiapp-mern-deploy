@@ -7,7 +7,6 @@ import Wrapper from '../assets/wrappers/LandingPage';
 const Landing = () => {
   return (
     <Wrapper>
-
         <div className="container page">
             <div className="info">
                 <h1>Job <span>tracking</span> Ap</h1>
