@@ -10,7 +10,7 @@ const Landing = () => {
 
         <div className="container page">
             <div className="info">
-                <h1>Job <span>tracking</span> App</h1>
+                <h1>Job <span>tracking</span> Ap</h1>
                 <p>
                     aliquam vestibulum morbi blandit cursus risus at ultrices 
                     mi tempus imperdiet nulla malesuada pellentesque elit eget gravida cum sociis 
