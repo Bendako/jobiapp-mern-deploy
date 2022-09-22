@@ -11,9 +11,9 @@ const Landing = () => {
             <div className="info">
                 <h1>Job <span>tracking</span> App</h1>
                 <p>
-                    aliquam vestibulum morbi blandit cursus risus at ultrices 
-                    mi tempus imperdiet nulla malesuada pellentesque elit eget gravida cum sociis 
-                    natoque penatibus et magnis dis parturient montes nascetur ridiculus mus mauris
+                Jobiapp is a dashboard app that allows you to order and organize your job applications. 
+                The app helps you to track your job applications and analyze your last half year. 
+                The app can make your searching job journey efficient and clear.
                 </p>
                 <Link to="/register" className="btn btn-hero">Login/Register</Link>
             </div>
